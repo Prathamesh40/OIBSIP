@@ -1,8 +1,8 @@
 **Data Analytics Project 1: Wine Quality Prediction – Oasis Infobyte**
 **Level 2 Project**
-This project uses 3 machine learning models to predict the quality of red wine based on its chemical properties like acidity, density, and alcohol content.
 ------------------------------------
 
+This project uses 3 machine learning models to predict the quality of red wine based on its chemical properties like acidity, density, and alcohol content.
 # Dataset
 - **File used:** 'WineQT.csv' 
 - **Source:** [Kaggle – Wine Quality Dataset](https://www.kaggle.com/datasets/yasserh/wine-quality-dataset)
